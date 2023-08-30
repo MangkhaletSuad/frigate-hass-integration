@@ -1,7 +1,7 @@
 <!-- markdownlint-disable first-line-heading -->
 <!-- markdownlint-disable no-inline-html -->
 
-<img src="https://raw.githubusercontent.com/blakeblackshear/frigate-hass-integration/master/images/frigate.png"
+<img src="https://raw.githubusercontent.com/blakeblackshear/frigate-hass-integration/master/images/frigate.jpg"
      alt="Frigate icon"
      width="35%"
      align="right"
